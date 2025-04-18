@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 20px; }
+.container { max-width: 600px; margin: auto; }
+input, select { margin: 5px; padding: 5px; }
+button { margin: 5px; padding: 6px 12px; }
+.totals { margin-top: 10px; font-weight: bold; }
